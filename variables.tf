@@ -20,5 +20,5 @@ variable "rule_priority" {
 }
 
 variable "domain_name" {
-    default = "daws88s.online"
+    default = "sandh.co.in"
 }
